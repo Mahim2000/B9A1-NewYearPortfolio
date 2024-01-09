@@ -327,3 +327,13 @@ header{
     margin-bottom: 48px;
 }
 
+.product-images{
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.product-images-2{
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
