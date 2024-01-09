@@ -303,6 +303,8 @@ header{
     width: 896px;
 }
 
+
+/* PRODUCT STYLES */
 #best-gifts{
     color: #F00;
     font-family: 'Rajdhani';
@@ -338,6 +340,7 @@ header{
     margin-right: 140px;
 }
 
+/* NEWSLETTER STYLES */
 .newsletter{
     background: rgba(255, 0, 0, 0.05); 
     width: 1320px;
@@ -390,4 +393,46 @@ header{
     font-family: Rajdhani;
     font-size: 20px;
     font-weight: 600;
+}
+
+/* FOOTER STYLES */
+
+footer{
+    margin-top: 120px;
+    background: #000000;
+}
+
+.address-phone{
+    padding-top: 120px;
+    padding-left: 140px;
+    padding-right: 140px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    padding-bottom: 98px;
+
+    font-family: Bebas Neue;
+    font-size: 24px;
+    font-weight: 500; 
+}
+
+.icons-web{
+    display: flex;
+    align-items: center;
+    padding-left: 640px;
+    gap: 24px;
+    padding-bottom: 98px;
+}
+
+.all-rights{
+    padding-left: 140px;
+    padding-right: 140px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    padding-bottom: 98px;
+
+    font-family: Bebas Neue;
+    font-size: 24px;
+    font-weight: 500; 
 }
