@@ -6,6 +6,10 @@
     font-family: 'Bebas Neue', sans-serif;
 }
 
+.text-highlight{
+    color: #F00;
+}
+
 /* HEADER STYLES */
 header{
     background: radial-gradient(transparent 20%, black), url(../images/banner/banner-image.jpg);
@@ -51,7 +55,6 @@ header{
 }
 
 #offers-65{
-    color: #F00;
     font-family: 'Rajdhani';
     font-size: 88px;
     font-weight: 700;
@@ -59,7 +62,6 @@ header{
 }
 
 #offers-65-2{
-    color: #F00;
     font-family: 'Rajdhani';
     font-size: 24px;
     font-weight: 500;
@@ -148,6 +150,7 @@ header{
     flex-shrink: 0; 
 }
 
+/* DATE-VENUE-TIME STYLE */
 .date-venue{
     background: linear-gradient(180deg, rgba(0, 60, 255, 0.1) 0%, rgba(255, 0, 0, 0.00) 100%);
     width: 1320px;
@@ -168,10 +171,6 @@ header{
     font-style: bold;
 }
 
-.date-venue-highlight{
-    color: #F00;
-}
-
 #date-venue-btn{
     margin-top: 48px;
     border-radius: 8px;
@@ -188,3 +187,68 @@ header{
     border: none;
 }
 
+/* COMING SOON STYLE */
+.coming-soon{
+    display:flex;
+    padding: 0px 140px 118px 140px;
+    align-items: center;
+}
+
+.coming-soon-texts{
+    text-align: left;
+    padding-right: 70px;
+}
+
+#cs-best-offer{
+    font-family: Rajdhani;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#cs-coming-soon{
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+#cs-info{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Rajdhani;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: bold; 
+}
+
+#coming-soon-image{
+    width: 364.844px;
+    height: 364.844px; 
+}
+
+.coming-soon-2024{
+    text-align: left;
+    padding-left: 118px;
+    padding-top: 112px; 
+}
+
+#cs-date{
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-style: bold;
+    font-weight: 700; 
+}
+
+#cs-wish{
+    color: rgba(7, 2, 17, 0.60); 
+    font-family: Rajdhani;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 400;
+    margin-bottom: 43px;
+}
+
+#cs-ribbon{
+    width: 140px;
+    height: 140px; 
+}
+
+/* HOLIDAY SALE STYLE */
