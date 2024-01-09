@@ -1,0 +1,65 @@
+/* COMMON SHARED FONTS */
+.banner{
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    background-image: url('../images/banner/banner-image.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 70%;
+    margin-bottom: 200px;
+}
+
+#banner-title{
+    color: #FFF;
+    font-family: 'Bebas Neue';
+    text-align: center;
+    font-size: 150px;
+    font-weight: 900;
+    text-shadow: 10px 10px #000000;
+    margin-top: 177px;
+}
+
+#banner-info{
+    color: #FFF;
+    font-family: 'Bebas Neue';
+    text-align: center;
+    font-size: 90px;
+    font-weight: 900;
+    text-shadow: 10px 10px #000000;
+    margin: 233px 344px 177px 344px;
+}
+
+
+#banner-off{
+    color: #F00;
+    text-align: center;
+    font-family: Rajdhani;
+    font-size: 150px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.banner-highlights{
+    color: #F00;
+    text-align: center;
+    font-family: Rajdhani;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.banner-highlights-2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Rajdhani;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+#banner-attract{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
