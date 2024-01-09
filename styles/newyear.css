@@ -252,3 +252,78 @@ header{
 }
 
 /* HOLIDAY SALE STYLE */
+.holiday-texts{
+    padding: 0px 266px 64px 266px;
+}
+
+#hs-functional{
+    color: #070211;
+    text-align: center;
+    font-family: Rajdhani;
+    font-size: 24px;
+    font-weight: 500; 
+}
+
+#hs-title{
+    color: #070211;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal; 
+}
+
+#hs-info{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Rajdhani;
+    font-size: 20px;
+    font-weight: 500; 
+}
+
+.holiday-main-img{
+    display: block;
+}
+
+#woman{
+    width: 429px;
+    height: 433px;
+    margin-left: 140px;
+}
+
+#carpet{
+    padding-left: 140px;
+    padding-bottom: 120px;
+}
+
+.portfolio-texts{
+    padding-left: 140px;
+    text-align: left;
+    width: 896px;
+}
+
+#best-gifts{
+    color: #F00;
+    font-family: 'Rajdhani';
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#prod-title{
+    color: #070211;
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+}
+
+#prod-info{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Rajdhani;
+    font-size: 20px;
+    font-weight: 400; 
+    margin-top: 22px;
+    margin-bottom: 48px;
+}
+
